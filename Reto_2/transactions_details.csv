@@ -1,0 +1,1175 @@
+IdTransaccion,Marca,Tipo,Ubicacion,Placa,Fecha
+1,ADRIA,Diesel,Galicia,0001,2019-06-07
+2,ALFAROMEO,Diesel,Andalucía,0047,2019-06-07
+3,ALFAROMEO,Diesel,Aragón,0041,2019-06-07
+4,ALFAROMEO,Diesel,Canarias,0019,2019-06-07
+5,ALFAROMEO,Diesel,Castilla,Sin especificar,2019-06-07
+6,ALFAROMEO,Diesel,Castilla-La,Sin especificar,2019-06-07
+7,ALFAROMEO,Diesel,Cataluña,0112,2019-06-07
+8,ALFAROMEO,Diesel,Ceuta,0001,2019-06-07
+9,ALFAROMEO,Diesel,Comunitat,Sin especificar,2019-06-07
+10,ALFAROMEO,Diesel,Extremadura,0005,2019-06-07
+11,ALFAROMEO,Diesel,Galicia,0023,2019-06-07
+12,ALFAROMEO,Diesel,País,Sin especificar,2019-06-07
+13,ALFAROMEO,Gasolina,Andalucía,0014,2019-06-07
+14,ALFAROMEO,Gasolina,Canarias,0025,2019-06-07
+15,ALFAROMEO,Gasolina,Cantabria,0001,2019-06-07
+16,ALFAROMEO,Gasolina,Castilla,Sin especificar,2019-06-07
+17,ALFAROMEO,Gasolina,Castilla-La,Sin especificar,2019-06-07
+18,ALFAROMEO,Gasolina,Comunitat,Sin especificar,2019-06-07
+19,ALFAROMEO,Gasolina,Extremadura,0001,2019-06-07
+20,ALFAROMEO,Gasolina,Galicia,0011,2019-06-07
+21,ALFAROMEO,Gasolina,País,Sin especificar,2019-06-07
+22,AMGENERALCORP,Gasolina,Andalucía,0001,2019-06-07
+23,APICZ,Diesel,Cataluña,0001,2019-06-07
+24,APICZ,Diesel,Comunitat,Sin especificar,2019-06-07
+25,ASTONMARTIN,Gasolina,Andalucía,0004,2019-06-07
+26,ASTONMARTIN,Gasolina,Castilla,Sin especificar,2019-06-07
+27,ASTONMARTIN,Gasolina,Castilla-La,Sin especificar,2019-06-07
+28,ASTONMARTIN,Gasolina,Cataluña,0004,2019-06-07
+29,ASTONMARTIN,Gasolina,Comunitat,Sin especificar,2019-06-07
+30,AUDI,Diesel,Andalucía,1235,2019-06-07
+31,AUDI,Diesel,Aragón,0186,2019-06-07
+32,AUDI,Diesel,Canarias,0057,2019-06-07
+33,AUDI,Diesel,Cantabria,0117,2019-06-07
+34,AUDI,Diesel,Castilla,Sin especificar,2019-06-07
+35,AUDI,Diesel,Castilla-La,Sin especificar,2019-06-07
+36,AUDI,Diesel,Cataluña,1774,2019-06-07
+37,AUDI,Diesel,Ceuta,0012,2019-06-07
+38,AUDI,Diesel,Comunitat,Sin especificar,2019-06-07
+39,AUDI,Diesel,Extremadura,0158,2019-06-07
+40,AUDI,Diesel,Galicia,0567,2019-06-07
+41,AUDI,Diesel,Melilla,0006,2019-06-07
+42,AUDI,Diesel,País,Sin especificar,2019-06-07
+43,AUDI,Diesel,Rioja,Sin especificar,2019-06-07
+44,AUDI,Eléctrico,Andalucía,0002,2019-06-07
+45,AUDI,Eléctrico,Aragón,0002,2019-06-07
+46,AUDI,Eléctrico,Canarias,0002,2019-06-07
+47,AUDI,Eléctrico,Cataluña,0001,2019-06-07
+48,AUDI,Eléctrico,Comunitat,Sin especificar,2019-06-07
+49,AUDI,Gas,Licuado,Sin especificar,2019-06-07
+50,AUDI,Gasolina,Andalucía,0217,2019-06-07
+51,AUDI,Gasolina,Aragón,0037,2019-06-07
+52,AUDI,Gasolina,Canarias,0155,2019-06-07
+53,AUDI,Gasolina,Cantabria,0036,2019-06-07
+54,AUDI,Gasolina,Castilla,Sin especificar,2019-06-07
+55,AUDI,Gasolina,Castilla-La,Sin especificar,2019-06-07
+56,AUDI,Gasolina,Cataluña,0589,2019-06-07
+57,AUDI,Gasolina,Ceuta,0006,2019-06-07
+58,AUDI,Comunitat,Valenciana,0431,2019-06-07
+59,AUDI,Gasolina,Extremadura,0026,2019-06-07
+60,AUDI,Gasolina,Galicia,0118,2019-06-07
+61,AUDI,Gasolina,País,Sin especificar,2019-06-07
+62,AUDI,Gasolina,Rioja,Sin especificar,2019-06-07
+63,AUSTIN,Gasolina,Cataluña,0001,2019-06-07
+64,AUSTIN,Gasolina,Galicia,0001,2019-06-07
+65,AUSTINROVER,Gasolina,Andalucía,0001,2019-06-07
+66,BENTLEY,Gasolina,Andalucía,0015,2019-06-07
+67,BENTLEY,Gasolina,Canarias,0001,2019-06-07
+68,BENTLEY,Gasolina,Cataluña,0004,2019-06-07
+69,BENTLEY,Gasolina,Comunitat,Sin especificar,2019-06-07
+70,BIERMAN,Diesel,Extremadura,0001,2019-06-07
+71,BMW,Diesel,Andalucía,1199,2019-06-07
+72,BMW,Diesel,Aragón,0172,2019-06-07
+73,BMW,Diesel,Canarias,0201,2019-06-07
+74,BMW,Diesel,Cantabria,0103,2019-06-07
+75,BMW,Diesel,Castilla,Sin especificar,2019-06-07
+76,BMW,Diesel,Castilla-La,Sin especificar,2019-06-07
+77,BMW,Diesel,Cataluña,1328,2019-06-07
+78,BMW,Diesel,Ceuta,0004,2019-06-07
+79,BMW,Diesel,Comunitat,Sin especificar,2019-06-07
+80,BMW,Diesel,Extremadura,0135,2019-06-07
+81,BMW,Diesel,Melilla,0006,2019-06-07
+82,BMW,Diesel,País,Sin especificar,2019-06-07
+83,BMW,Diesel,Rioja,Sin especificar,2019-06-07
+84,BMW,Eléctrico,Comunitat,Sin especificar,2019-06-07
+85,BMW,Eléctrico,País,Sin especificar,2019-06-07
+86,BMW,Gasolina,Andalucía,0088,2019-06-07
+87,BMW,Gasolina,Aragón,0014,2019-06-07
+88,BMW,Gasolina,Canarias,0045,2019-06-07
+89,BMW,Gasolina,Cantabria,0008,2019-06-07
+90,BMW,Gasolina,Castilla,Sin especificar,2019-06-07
+91,BMW,Gasolina,Castilla-La,Sin especificar,2019-06-07
+92,BMW,Gasolina,Cataluña,0153,2019-06-07
+93,BMW,Gasolina,Comunitat,Sin especificar,2019-06-07
+94,BMW,Gasolina,Extremadura,0006,2019-06-07
+95,BMW,Gasolina,Galicia,0040,2019-06-07
+96,BMW,Gasolina,Melilla,0001,2019-06-07
+97,BMW,Gasolina,País,Sin especificar,2019-06-07
+98,BMW,Gasolina,Rioja,Sin especificar,2019-06-07
+99,BMWI,Eléctrico,Andalucía,0001,2019-06-07
+100,BMWI,Eléctrico,Cataluña,0013,2019-06-07
+101,BMWI,Eléctrico,Comunitat,Sin especificar,2019-06-07
+102,BMWI,Gasolina,Castilla-La,Sin especificar,2019-06-07
+103,BUGGY,Gasolina,Andalucía,0001,2019-06-07
+104,BUICK,Gasolina,Andalucía,0004,2019-06-07
+105,CADILLAC,Gasolina,Andalucía,0003,2019-06-07
+106,CADILLAC,Sin,especificar,Sin especificar,2019-06-07
+107,CARRUXO,Gasolina,Andalucía,0001,2019-06-07
+108,CHAUSSON,Diesel,Cataluña,0001,2019-06-07
+109,CHEVROLET,Diesel,Andalucía,0002,2019-06-07
+110,CHEVROLET,Diesel,Castilla,Sin especificar,2019-06-07
+111,CHEVROLET,Diesel,Castilla-La,Sin especificar,2019-06-07
+112,CHEVROLET,Diesel,Comunitat,Sin especificar,2019-06-07
+113,CHEVROLET,Gasolina,Andalucía,0013,2019-06-07
+114,CHEVROLET,Gasolina,Canarias,0003,2019-06-07
+115,CHEVROLET,Gasolina,Cataluña,0001,2019-06-07
+116,CHEVROLET,Gasolina,Comunitat,Sin especificar,2019-06-07
+117,CHEVROLET,Gasolina,Galicia,0001,2019-06-07
+118,CHEVROLET,Sin,especificar,Sin especificar,2019-06-07
+119,CHRYSLER,Diesel,Andalucía,0007,2019-06-07
+120,CHRYSLER,Diesel,Aragón,0002,2019-06-07
+121,CHRYSLER,Diesel,Canarias,0003,2019-06-07
+122,CHRYSLER,Diesel,Castilla,Sin especificar,2019-06-07
+123,CHRYSLER,Diesel,Castilla-La,Sin especificar,2019-06-07
+124,CHRYSLER,Diesel,Cataluña,0004,2019-06-07
+125,CHRYSLER,Diesel,Comunitat,Sin especificar,2019-06-07
+126,CHRYSLER,Diesel,Extremadura,0001,2019-06-07
+127,CHRYSLER,Diesel,Galicia,0001,2019-06-07
+128,CHRYSLER,Gasolina,Andalucía,0007,2019-06-07
+129,CHRYSLER,Gasolina,Aragón,0001,2019-06-07
+130,CHRYSLER,Gasolina,Cataluña,0003,2019-06-07
+131,CHRYSLER,Gasolina,Comunitat,Sin especificar,2019-06-07
+132,CITROEN,Diesel,Andalucía,2064,2019-06-07
+133,CITROEN,Diesel,Aragón,0229,2019-06-07
+134,CITROEN,Diesel,Canarias,0052,2019-06-07
+135,CITROEN,Diesel,Cantabria,0129,2019-06-07
+136,CITROEN,Diesel,Castilla,Sin especificar,2019-06-07
+137,CITROEN,Diesel,Castilla-La,Sin especificar,2019-06-07
+138,CITROEN,Diesel,Cataluña,1570,2019-06-07
+139,CITROEN,Diesel,Ceuta,0024,2019-06-07
+140,CITROEN,Diesel,Comunitat,Sin especificar,2019-06-07
+141,CITROEN,Diesel,Extremadura,0257,2019-06-07
+142,CITROEN,Diesel,Galicia,0635,2019-06-07
+143,CITROEN,Diesel,País,Sin especificar,2019-06-07
+144,CITROEN,Diesel,Rioja,Sin especificar,2019-06-07
+145,CITROEN,Eléctrico,Andalucía,0003,2019-06-07
+146,CITROEN,Eléctrico,Castilla-La,Sin especificar,2019-06-07
+147,CITROEN,Eléctrico,Cataluña,0007,2019-06-07
+148,CITROEN,Eléctrico,Comunitat,Sin especificar,2019-06-07
+149,CITROEN,Gas,Licuado,Sin especificar,2019-06-07
+150,CITROEN,Gas,Licuado,Sin especificar,2019-06-07
+151,CITROEN,Gas,Licuado,Sin especificar,2019-06-07
+152,CITROEN,Gas,Licuado,Sin especificar,2019-06-07
+153,CITROEN,Gasolina,Andalucía,0748,2019-06-07
+154,CITROEN,Gasolina,Aragón,0141,2019-06-07
+155,CITROEN,Gasolina,Canarias,0399,2019-06-07
+156,CITROEN,Gasolina,Cantabria,0069,2019-06-07
+157,CITROEN,Gasolina,Castilla,Sin especificar,2019-06-07
+158,CITROEN,Gasolina,Castilla-La,Sin especificar,2019-06-07
+159,CITROEN,Gasolina,Cataluña,0943,2019-06-07
+160,CITROEN,Gasolina,Ceuta,0018,2019-06-07
+161,CITROEN,Gasolina,Comunitat,Sin especificar,2019-06-07
+162,CITROEN,Gasolina,Extremadura,0112,2019-06-07
+163,CITROEN,Gasolina,Galicia,0171,2019-06-07
+164,CITROEN,Gasolina,Melilla,0010,2019-06-07
+165,CITROEN,Gasolina,País,Sin especificar,2019-06-07
+166,CITROEN,Gasolina,Rioja,Sin especificar,2019-06-07
+167,CITROEN,Hidrógeno,Comunitat,Sin especificar,2019-06-07
+168,DACIA,Diesel,Andalucía,1396,2019-06-07
+169,DACIA,Diesel,Aragón,0165,2019-06-07
+170,DACIA,Diesel,Canarias,0355,2019-06-07
+171,DACIA,Diesel,Cantabria,0070,2019-06-07
+172,DACIA,Diesel,Castilla,Sin especificar,2019-06-07
+173,DACIA,Diesel,Castilla-La,Sin especificar,2019-06-07
+174,DACIA,Diesel,Cataluña,0843,2019-06-07
+175,DACIA,Diesel,Ceuta,0004,2019-06-07
+176,DACIA,Diesel,Comunitat,Sin especificar,2019-06-07
+177,DACIA,Diesel,Extremadura,0209,2019-06-07
+178,DACIA,Diesel,Galicia,0303,2019-06-07
+179,DACIA,Diesel,País,Sin especificar,2019-06-07
+180,DACIA,Diesel,Rioja,Sin especificar,2019-06-07
+181,DACIA,Gas,Licuado,Sin especificar,2019-06-07
+182,DACIA,Gas,Licuado,Sin especificar,2019-06-07
+183,DACIA,Gas,Licuado,Sin especificar,2019-06-07
+184,DACIA,Gas,Licuado,Sin especificar,2019-06-07
+185,DACIA,Gas,Licuado,Sin especificar,2019-06-07
+186,DACIA,Gas,Licuado,Sin especificar,2019-06-07
+187,DACIA,Gas,Licuado,Sin especificar,2019-06-07
+188,DACIA,Gasolina,Andalucía,0586,2019-06-07
+189,DACIA,Gasolina,Aragón,0096,2019-06-07
+190,DACIA,Gasolina,Canarias,0634,2019-06-07
+191,DACIA,Gasolina,Cantabria,0039,2019-06-07
+192,DACIA,Gasolina,Castilla,Sin especificar,2019-06-07
+193,DACIA,Gasolina,Castilla-La,Sin especificar,2019-06-07
+194,DACIA,Gasolina,Cataluña,0775,2019-06-07
+195,DACIA,Gasolina,Ceuta,0007,2019-06-07
+196,DACIA,Gasolina,Comunitat,Sin especificar,2019-06-07
+197,DACIA,Gasolina,Extremadura,0052,2019-06-07
+198,DACIA,Gasolina,Galicia,0160,2019-06-07
+199,DACIA,Gasolina,Melilla,0009,2019-06-07
+200,DACIA,Gasolina,País,Sin especificar,2019-06-07
+201,DACIA,Gasolina,Rioja,Sin especificar,2019-06-07
+202,DAEWOO,Diesel,Andalucía,0001,2019-06-07
+203,DAEWOO,Gasolina,Andalucía,0001,2019-06-07
+204,DAEWOO,Gasolina,Aragón,0001,2019-06-07
+205,DAEWOO,Gasolina,Castilla,Sin especificar,2019-06-07
+206,DAEWOO,Gasolina,Cataluña,0001,2019-06-07
+207,DAEWOO,Gasolina,Comunitat,Sin especificar,2019-06-07
+208,DAF,Gasolina,Andalucía,0001,2019-06-07
+209,DAIHATSU,Gasolina,Andalucía,0001,2019-06-07
+210,DAIHATSU,Gasolina,Canarias,0001,2019-06-07
+211,DAIHATSU,Gasolina,Cataluña,0001,2019-06-07
+212,DAIHATSU,Gasolina,Comunitat,Sin especificar,2019-06-07
+213,DAIMLER,Diesel,Cataluña,0001,2019-06-07
+214,DAIMLER,Gasolina,Castilla,Sin especificar,2019-06-07
+215,DAIMLERAG,Gasolina,Comunitat,Sin especificar,2019-06-07
+216,DAIMLERCHRYSLER,Diesel,Andalucía,0003,2019-06-07
+217,DAIMLERCHRYSLER,Diesel,Castilla-La,Sin especificar,2019-06-07
+218,DAIMLERCHRYSLER,Diesel,Cataluña,0002,2019-06-07
+219,DAIMLERCHRYSLER,Diesel,Comunitat,Sin especificar,2019-06-07
+220,DAIMLERCHRYSLER,Diesel,Galicia,0001,2019-06-07
+221,DODGE,Gasolina,Andalucía,0001,2019-06-07
+222,DODGE,Gasolina,Cataluña,0001,2019-06-07
+223,DODGE,Gasolina,Comunitat,Sin especificar,2019-06-07
+224,DS,Diesel,Andalucía,0053,2019-06-07
+225,DS,Diesel,Aragón,0005,2019-06-07
+226,DS,Diesel,Canarias,0003,2019-06-07
+227,DS,Diesel,Cantabria,0013,2019-06-07
+228,DS,Diesel,Castilla,Sin especificar,2019-06-07
+229,DS,Diesel,Castilla-La,Sin especificar,2019-06-07
+230,DS,Diesel,Cataluña,0052,2019-06-07
+231,DS,Diesel,Ceuta,0001,2019-06-07
+232,DS,Diesel,Comunitat,Sin especificar,2019-06-07
+233,DS,Diesel,Extremadura,0008,2019-06-07
+234,DS,Diesel,Galicia,0037,2019-06-07
+235,DS,Diesel,País,Sin especificar,2019-06-07
+236,DS,Diesel,Rioja,Sin especificar,2019-06-07
+237,DS,Gasolina,Andalucía,0025,2019-06-07
+238,DS,Gasolina,Aragón,0005,2019-06-07
+239,DS,Gasolina,Canarias,0008,2019-06-07
+240,DS,Gasolina,Cantabria,0005,2019-06-07
+241,DS,Gasolina,Castilla,Sin especificar,2019-06-07
+242,DS,Gasolina,Castilla-La,Sin especificar,2019-06-07
+243,DS,Gasolina,Cataluña,0046,2019-06-07
+244,DS,Gasolina,Comunitat,Sin especificar,2019-06-07
+245,DS,Gasolina,Extremadura,0006,2019-06-07
+246,DS,Gasolina,Galicia,0010,2019-06-07
+247,DS,Gasolina,País,Sin especificar,2019-06-07
+248,DS,Gasolina,Rioja,Sin especificar,2019-06-07
+249,EXCALIBUR,Gasolina,Comunitat,Sin especificar,2019-06-07
+250,FERRARI,Gasolina,Andalucía,0008,2019-06-07
+251,FERRARI,Gasolina,Canarias,0001,2019-06-07
+252,FERRARI,Gasolina,Castilla,Sin especificar,2019-06-07
+253,FERRARI,Gasolina,Cataluña,0005,2019-06-07
+254,FERRARI,Gasolina,Comunitat,Sin especificar,2019-06-07
+255,FERRARI,Gasolina,Extremadura,0001,2019-06-07
+256,FERRARI,Gasolina,Galicia,0002,2019-06-07
+257,FERRARI,Gasolina,País,Sin especificar,2019-06-07
+258,FERROSITE,Gas,Licuado,Sin especificar,2019-06-07
+259,FIAT,Diesel,Andalucía,0380,2019-06-07
+260,FIAT,Diesel,Aragón,0226,2019-06-07
+261,FIAT,Diesel,Canarias,0041,2019-06-07
+262,FIAT,Diesel,Cantabria,0022,2019-06-07
+263,FIAT,Diesel,Castilla,Sin especificar,2019-06-07
+264,FIAT,Diesel,Castilla-La,Sin especificar,2019-06-07
+265,FIAT,Diesel,Cataluña,1020,2019-06-07
+266,FIAT,Diesel,Ceuta,0004,2019-06-07
+267,FIAT,Diesel,Comunitat,Sin especificar,2019-06-07
+268,FIAT,Diesel,Extremadura,0022,2019-06-07
+269,FIAT,Diesel,Galicia,0098,2019-06-07
+270,FIAT,Diesel,Melilla,0003,2019-06-07
+271,FIAT,Diesel,País,Sin especificar,2019-06-07
+272,FIAT,Diesel,Rioja,Sin especificar,2019-06-07
+273,FIAT,Gas,Licuado,Sin especificar,2019-06-07
+274,FIAT,Gas,Licuado,Sin especificar,2019-06-07
+275,FIAT,Gas,Licuado,Sin especificar,2019-06-07
+276,FIAT,Gas,Licuado,Sin especificar,2019-06-07
+277,FIAT,Gas,Licuado,Sin especificar,2019-06-07
+278,FIAT,Gas,Licuado,Sin especificar,2019-06-07
+279,FIAT,Gas,Licuado,Sin especificar,2019-06-07
+280,FIAT,Gas,Licuado,Sin especificar,2019-06-07
+281,FIAT,Gasolina,Andalucía,0606,2019-06-07
+282,FIAT,Gasolina,Aragón,0054,2019-06-07
+283,FIAT,Gasolina,Canarias,0411,2019-06-07
+284,FIAT,Gasolina,Cantabria,0031,2019-06-07
+285,FIAT,Gasolina,Castilla,Sin especificar,2019-06-07
+286,FIAT,Gasolina,Castilla-La,Sin especificar,2019-06-07
+287,FIAT,Gasolina,Cataluña,0706,2019-06-07
+288,FIAT,Gasolina,Ceuta,0003,2019-06-07
+289,FIAT,Gasolina,Comunitat,Sin especificar,2019-06-07
+290,FIAT,Gasolina,Extremadura,0014,2019-06-07
+291,FIAT,Gasolina,Galicia,0109,2019-06-07
+292,FIAT,Gasolina,Melilla,0011,2019-06-07
+293,FIAT,Gasolina,País,Sin especificar,2019-06-07
+294,FIAT,Gasolina,Rioja,Sin especificar,2019-06-07
+295,FORD,Diesel,Andalucía,0883,2019-06-07
+296,FORD,Diesel,Aragón,0188,2019-06-07
+297,FORD,Diesel,Canarias,0120,2019-06-07
+298,FORD,Diesel,Cantabria,0050,2019-06-07
+299,FORD,Diesel,Castilla,Sin especificar,2019-06-07
+300,FORD,Diesel,Castilla-La,Sin especificar,2019-06-07
+301,FORD,Diesel,Cataluña,1300,2019-06-07
+302,FORD,Diesel,Ceuta,0009,2019-06-07
+303,FORD,Diesel,Comunitat,Sin especificar,2019-06-07
+304,FORD,Diesel,Extremadura,0128,2019-06-07
+305,FORD,Diesel,Galicia,0285,2019-06-07
+306,FORD,Diesel,País,Sin especificar,2019-06-07
+307,FORD,Diesel,Rioja,Sin especificar,2019-06-07
+308,FORD,Gas,Licuado,Sin especificar,2019-06-07
+309,FORD,Gas,Licuado,Sin especificar,2019-06-07
+310,FORD,Gas,Licuado,Sin especificar,2019-06-07
+311,FORD,Gas,Licuado,Sin especificar,2019-06-07
+312,FORD,Gasolina,Andalucía,0691,2019-06-07
+313,FORD,Gasolina,Aragón,0119,2019-06-07
+314,FORD,Gasolina,Canarias,0419,2019-06-07
+315,FORD,Gasolina,Cantabria,0063,2019-06-07
+316,FORD,Gasolina,Castilla,Sin especificar,2019-06-07
+317,FORD,Gasolina,Castilla-La,Sin especificar,2019-06-07
+318,FORD,Gasolina,Cataluña,1179,2019-06-07
+319,FORD,Gasolina,Ceuta,0006,2019-06-07
+320,FORD,Gasolina,Comunitat,Sin especificar,2019-06-07
+321,FORD,Gasolina,Extremadura,0073,2019-06-07
+322,FORD,Gasolina,Galicia,0190,2019-06-07
+323,FORD,Gasolina,Melilla,0001,2019-06-07
+324,FORD,Gasolina,País,Sin especificar,2019-06-07
+325,FORD,Gasolina,Rioja,Sin especificar,2019-06-07
+326,FORDCNGTECHNIK,Eléctrico,Comunitat,Sin especificar,2019-06-07
+327,FORDCNGTECHNIK,Gasolina,Comunitat,Sin especificar,2019-06-07
+328,GATSBY,Gasolina,Andalucía,0001,2019-06-07
+329,GLAS,Gasolina,Cataluña,0001,2019-06-07
+330,GMC,Gasolina,Andalucía,0002,2019-06-07
+331,HONDA,Diesel,Andalucía,0334,2019-06-07
+332,HONDA,Diesel,Aragón,0054,2019-06-07
+333,HONDA,Diesel,Canarias,0023,2019-06-07
+334,HONDA,Diesel,Cantabria,0024,2019-06-07
+335,HONDA,Diesel,Castilla,Sin especificar,2019-06-07
+336,HONDA,Diesel,Castilla-La,Sin especificar,2019-06-07
+337,HONDA,Diesel,Cataluña,0515,2019-06-07
+338,HONDA,Diesel,Ceuta,0001,2019-06-07
+339,HONDA,Diesel,Comunitat,Sin especificar,2019-06-07
+340,HONDA,Diesel,Extremadura,0026,2019-06-07
+341,HONDA,Diesel,Galicia,0088,2019-06-07
+342,HONDA,Diesel,País,Sin especificar,2019-06-07
+343,HONDA,Diesel,Rioja,Sin especificar,2019-06-07
+344,HONDA,Gasolina,Andalucía,0056,2019-06-07
+345,HONDA,Gasolina,Aragón,0021,2019-06-07
+346,HONDA,Gasolina,Canarias,0082,2019-06-07
+347,HONDA,Gasolina,Cantabria,0009,2019-06-07
+348,HONDA,Gasolina,Castilla,Sin especificar,2019-06-07
+349,HONDA,Gasolina,Castilla-La,Sin especificar,2019-06-07
+350,HONDA,Gasolina,Cataluña,0139,2019-06-07
+351,HONDA,Gasolina,Ceuta,0002,2019-06-07
+352,HONDA,Gasolina,Comunitat,Sin especificar,2019-06-07
+353,HONDA,Gasolina,Extremadura,0003,2019-06-07
+354,HONDA,Gasolina,Galicia,0033,2019-06-07
+355,HONDA,Gasolina,Melilla,0002,2019-06-07
+356,HONDA,Gasolina,País,Sin especificar,2019-06-07
+357,HONDA,Gasolina,Rioja,Sin especificar,2019-06-07
+358,HUMMER,Gasolina,Comunitat,Sin especificar,2019-06-07
+359,HYUNDAI,Diesel,Andalucía,0736,2019-06-07
+360,HYUNDAI,Diesel,Aragón,0098,2019-06-07
+361,HYUNDAI,Diesel,Canarias,0124,2019-06-07
+362,HYUNDAI,Diesel,Cantabria,0034,2019-06-07
+363,HYUNDAI,Diesel,Castilla,Sin especificar,2019-06-07
+364,HYUNDAI,Diesel,Castilla-La,Sin especificar,2019-06-07
+365,HYUNDAI,Diesel,Cataluña,0662,2019-06-07
+366,HYUNDAI,Diesel,Ceuta,0013,2019-06-07
+367,HYUNDAI,Diesel,Comunitat,Sin especificar,2019-06-07
+368,HYUNDAI,Diesel,Extremadura,0116,2019-06-07
+369,HYUNDAI,Diesel,Galicia,0179,2019-06-07
+370,HYUNDAI,Diesel,Melilla,0006,2019-06-07
+371,HYUNDAI,Diesel,País,Sin especificar,2019-06-07
+372,HYUNDAI,Diesel,Rioja,Sin especificar,2019-06-07
+373,HYUNDAI,Gasolina,Andalucía,0621,2019-06-07
+374,HYUNDAI,Gasolina,Aragón,0090,2019-06-07
+375,HYUNDAI,Gasolina,Canarias,0488,2019-06-07
+376,HYUNDAI,Gasolina,Cantabria,0034,2019-06-07
+377,HYUNDAI,Gasolina,Castilla,Sin especificar,2019-06-07
+378,HYUNDAI,Gasolina,Castilla-La,Sin especificar,2019-06-07
+379,HYUNDAI,Gasolina,Cataluña,0849,2019-06-07
+380,HYUNDAI,Gasolina,Ceuta,0013,2019-06-07
+381,HYUNDAI,Gasolina,Comunitat,Sin especificar,2019-06-07
+382,HYUNDAI,Gasolina,Extremadura,0082,2019-06-07
+383,HYUNDAI,Gasolina,Galicia,0118,2019-06-07
+384,HYUNDAI,Gasolina,Melilla,0016,2019-06-07
+385,HYUNDAI,Gasolina,País,Sin especificar,2019-06-07
+386,HYUNDAI,Gasolina,Rioja,Sin especificar,2019-06-07
+387,INFINITI,Diesel,Andalucía,0009,2019-06-07
+388,INFINITI,Diesel,Aragón,0001,2019-06-07
+389,INFINITI,Diesel,Canarias,0005,2019-06-07
+390,INFINITI,Diesel,Cantabria,0003,2019-06-07
+391,INFINITI,Diesel,Castilla,Sin especificar,2019-06-07
+392,INFINITI,Diesel,Castilla-La,Sin especificar,2019-06-07
+393,INFINITI,Diesel,Cataluña,0019,2019-06-07
+394,INFINITI,Diesel,Comunitat,Sin especificar,2019-06-07
+395,INFINITI,Diesel,Galicia,0005,2019-06-07
+396,INFINITI,Diesel,País,Sin especificar,2019-06-07
+397,INFINITI,Diesel,Rioja,Sin especificar,2019-06-07
+398,INFINITI,Gasolina,Castilla,Sin especificar,2019-06-07
+399,INFINITI,Gasolina,Castilla-La,Sin especificar,2019-06-07
+400,INFINITI,Gasolina,Cataluña,0007,2019-06-07
+401,ISO,Gasolina,Cataluña,0001,2019-06-07
+402,JAGUAR,Diesel,Andalucía,0023,2019-06-07
+403,JAGUAR,Diesel,Aragón,0002,2019-06-07
+404,JAGUAR,Diesel,Canarias,0008,2019-06-07
+405,JAGUAR,Diesel,Castilla,Sin especificar,2019-06-07
+406,JAGUAR,Diesel,Castilla-La,Sin especificar,2019-06-07
+407,JAGUAR,Diesel,Cataluña,0066,2019-06-07
+408,JAGUAR,Diesel,Comunitat,Sin especificar,2019-06-07
+409,JAGUAR,Diesel,Extremadura,0003,2019-06-07
+410,JAGUAR,Diesel,Galicia,0005,2019-06-07
+411,JAGUAR,Diesel,País,Sin especificar,2019-06-07
+412,JAGUAR,Diesel,Rioja,Sin especificar,2019-06-07
+413,JAGUAR,Gasolina,Andalucía,0015,2019-06-07
+414,JAGUAR,Gasolina,Canarias,0004,2019-06-07
+415,JAGUAR,Gasolina,Cantabria,0002,2019-06-07
+416,JAGUAR,Gasolina,Castilla,Sin especificar,2019-06-07
+417,JAGUAR,Gasolina,Castilla-La,Sin especificar,2019-06-07
+418,JAGUAR,Gasolina,Cataluña,0014,2019-06-07
+419,JAGUAR,Gasolina,Comunitat,Sin especificar,2019-06-07
+420,JAGUAR,Gasolina,Galicia,0003,2019-06-07
+421,JAGUAR,Gasolina,Melilla,0001,2019-06-07
+422,JAGUAR,Gasolina,País,Sin especificar,2019-06-07
+423,JAGUARLANDROVERLIMITDiesel,Balears,(Illes),0001,2019-06-07
+424,JAGUARLANDROVERLIMITDiesel,Castilla-La,Mancha,0005,2019-06-07
+425,JAGUARLANDROVERLIMITDiesel,Comunitat,Valenciana,0017,2019-06-07
+426,JAGUARLANDROVERLIMITDiesel,País,Vasco,0006,2019-06-07
+427,JAGUARLANDROVERLIMITDiesel,Rioja,(La),0001,2019-06-07
+428,JAGUARLANDROVERLIMITGasolina,Comunitat,Valenciana,0002,2019-06-07
+429,JEEP,Diesel,Andalucía,0084,2019-06-07
+430,JEEP,Diesel,Aragón,0080,2019-06-07
+431,JEEP,Diesel,Canarias,0045,2019-06-07
+432,JEEP,Diesel,Cantabria,0005,2019-06-07
+433,JEEP,Diesel,Castilla,Sin especificar,2019-06-07
+434,JEEP,Diesel,Castilla-La,Sin especificar,2019-06-07
+435,JEEP,Diesel,Cataluña,0259,2019-06-07
+436,JEEP,Diesel,Ceuta,0001,2019-06-07
+437,JEEP,Diesel,Comunitat,Sin especificar,2019-06-07
+438,JEEP,Diesel,Extremadura,0001,2019-06-07
+439,JEEP,Diesel,Galicia,0018,2019-06-07
+440,JEEP,Diesel,Melilla,0001,2019-06-07
+441,JEEP,Diesel,País,Sin especificar,2019-06-07
+442,JEEP,Diesel,Rioja,Sin especificar,2019-06-07
+443,JEEP,Gasolina,Andalucía,0013,2019-06-07
+444,JEEP,Gasolina,Aragón,0001,2019-06-07
+445,JEEP,Gasolina,Canarias,0010,2019-06-07
+446,JEEP,Gasolina,Cantabria,0001,2019-06-07
+447,JEEP,Gasolina,Castilla-La,Sin especificar,2019-06-07
+448,JEEP,Gasolina,Cataluña,0019,2019-06-07
+449,JEEP,Gasolina,Comunitat,Sin especificar,2019-06-07
+450,JEEP,Gasolina,Galicia,0004,2019-06-07
+451,JEEP,Gasolina,País,Sin especificar,2019-06-07
+452,KIA,Diesel,Andalucía,0999,2019-06-07
+453,KIA,Diesel,Aragón,0164,2019-06-07
+454,KIA,Diesel,Canarias,0073,2019-06-07
+455,KIA,Diesel,Cantabria,0121,2019-06-07
+456,KIA,Diesel,Castilla,Sin especificar,2019-06-07
+457,KIA,Diesel,Castilla-La,Sin especificar,2019-06-07
+458,KIA,Diesel,Cataluña,0919,2019-06-07
+459,KIA,Diesel,Ceuta,0001,2019-06-07
+460,KIA,Diesel,Comunitat,Sin especificar,2019-06-07
+461,KIA,Diesel,Extremadura,0135,2019-06-07
+462,KIA,Diesel,Galicia,0400,2019-06-07
+463,KIA,Diesel,Melilla,0001,2019-06-07
+464,KIA,Diesel,País,Sin especificar,2019-06-07
+465,KIA,Diesel,Rioja,Sin especificar,2019-06-07
+466,KIA,Eléctrico,Andalucía,0001,2019-06-07
+467,KIA,Eléctrico,Canarias,0001,2019-06-07
+468,KIA,Eléctrico,Cataluña,0014,2019-06-07
+469,KIA,Eléctrico,Comunitat,Sin especificar,2019-06-07
+470,KIA,Eléctrico,Galicia,0002,2019-06-07
+471,KIA,Eléctrico,País,Sin especificar,2019-06-07
+472,KIA,Gasolina,Andalucía,0624,2019-06-07
+473,KIA,Gasolina,Aragón,0192,2019-06-07
+474,KIA,Gasolina,Canarias,0410,2019-06-07
+475,KIA,Gasolina,Cantabria,0060,2019-06-07
+476,KIA,Gasolina,Castilla,Sin especificar,2019-06-07
+477,KIA,Gasolina,Castilla-La,Sin especificar,2019-06-07
+478,KIA,Gasolina,Cataluña,1020,2019-06-07
+479,KIA,Gasolina,Ceuta,0006,2019-06-07
+480,KIA,Gasolina,Comunitat,Sin especificar,2019-06-07
+481,KIA,Gasolina,Extremadura,0052,2019-06-07
+482,KIA,Gasolina,Galicia,0204,2019-06-07
+483,KIA,Gasolina,Melilla,0022,2019-06-07
+484,KIA,Gasolina,País,Sin especificar,2019-06-07
+485,KIA,Gasolina,Rioja,Sin especificar,2019-06-07
+486,KIAMOTORROK,Diesel,Cataluña,0001,2019-06-07
+487,KIAMOTORROK,Diesel,Comunitat,Sin especificar,2019-06-07
+488,KIAMOTORROK,Gasolina,Canarias,0001,2019-06-07
+489,LAMBORGHINI,Gasolina,Canarias,0001,2019-06-07
+490,LAMBORGHINI,Gasolina,Castilla-La,Sin especificar,2019-06-07
+491,LAMBORGHINI,Gasolina,Cataluña,0001,2019-06-07
+492,LANCIA,Diesel,Aragón,0001,2019-06-07
+493,LANCIA,Diesel,Canarias,0003,2019-06-07
+494,LANCIA,Diesel,Castilla-La,Sin especificar,2019-06-07
+495,LANCIA,Diesel,Comunitat,Sin especificar,2019-06-07
+496,LANCIA,Diesel,Extremadura,0001,2019-06-07
+497,LANCIA,Gasolina,Andalucía,0009,2019-06-07
+498,LANCIA,Gasolina,Aragón,0037,2019-06-07
+499,LANCIA,Gasolina,Canarias,0004,2019-06-07
+500,LANCIA,Gasolina,Castilla-La,Sin especificar,2019-06-07
+501,LANCIA,Gasolina,Cataluña,0007,2019-06-07
+502,LANCIA,Gasolina,Comunitat,Sin especificar,2019-06-07
+503,LANCIA,Gasolina,Galicia,0002,2019-06-07
+504,LANCIA,Gasolina,País,Sin especificar,2019-06-07
+505,LANDROVER,Diesel,Andalucía,0099,2019-06-07
+506,LANDROVER,Diesel,Aragón,0012,2019-06-07
+507,LANDROVER,Diesel,Canarias,0024,2019-06-07
+508,LANDROVER,Diesel,Cantabria,0002,2019-06-07
+509,LANDROVER,Diesel,Castilla,Sin especificar,2019-06-07
+510,LANDROVER,Diesel,Castilla-La,Sin especificar,2019-06-07
+511,LANDROVER,Diesel,Cataluña,0108,2019-06-07
+512,LANDROVER,Diesel,Ceuta,0002,2019-06-07
+513,LANDROVER,Diesel,Comunitat,Sin especificar,2019-06-07
+514,LANDROVER,Diesel,Extremadura,0011,2019-06-07
+515,LANDROVER,Diesel,Galicia,0017,2019-06-07
+516,LANDROVER,Diesel,Melilla,0002,2019-06-07
+517,LANDROVER,Diesel,País,Sin especificar,2019-06-07
+518,LANDROVER,Diesel,Rioja,Sin especificar,2019-06-07
+519,LANDROVER,Gasolina,Andalucía,0001,2019-06-07
+520,LANDROVER,Gasolina,Canarias,0002,2019-06-07
+521,LEXUS,Diesel,Andalucía,0001,2019-06-07
+522,LEXUS,Gasolina,Andalucía,0114,2019-06-07
+523,LEXUS,Gasolina,Aragón,0031,2019-06-07
+524,LEXUS,Gasolina,Canarias,0022,2019-06-07
+525,LEXUS,Gasolina,Cantabria,0020,2019-06-07
+526,LEXUS,Gasolina,Castilla,Sin especificar,2019-06-07
+527,LEXUS,Gasolina,Castilla-La,Sin especificar,2019-06-07
+528,LEXUS,Gasolina,Cataluña,0298,2019-06-07
+529,LEXUS,Gasolina,Comunitat,Sin especificar,2019-06-07
+530,LEXUS,Gasolina,Extremadura,0005,2019-06-07
+531,LEXUS,Gasolina,Galicia,0060,2019-06-07
+532,LEXUS,Gasolina,País,Sin especificar,2019-06-07
+533,LEXUS,Gasolina,Rioja,Sin especificar,2019-06-07
+534,LINCOLN,Gasolina,Andalucía,0001,2019-06-07
+535,LOTUS,Gasolina,Cataluña,0002,2019-06-07
+536,LOTUSCARSLTD,Gasolina,Cataluña,0001,2019-06-07
+537,MAHINDRA,Diesel,Andalucía,0005,2019-06-07
+538,MAHINDRA,Diesel,Aragón,0001,2019-06-07
+539,MAHINDRA,Diesel,Castilla,Sin especificar,2019-06-07
+540,MAHINDRA,Diesel,Cataluña,0011,2019-06-07
+541,MAHINDRA,Diesel,Comunitat,Sin especificar,2019-06-07
+542,MASERATI,Diesel,Andalucía,0007,2019-06-07
+543,MASERATI,Diesel,Aragón,0003,2019-06-07
+544,MASERATI,Diesel,Castilla-La,Sin especificar,2019-06-07
+545,MASERATI,Diesel,Cataluña,0008,2019-06-07
+546,MASERATI,Diesel,Comunitat,Sin especificar,2019-06-07
+547,MASERATI,Diesel,Galicia,0002,2019-06-07
+548,MASERATI,Diesel,País,Sin especificar,2019-06-07
+549,MASERATI,Gasolina,Andalucía,0004,2019-06-07
+550,MASERATI,Gasolina,Aragón,0002,2019-06-07
+551,MASERATI,Gasolina,Canarias,0001,2019-06-07
+552,MASERATI,Gasolina,Castilla,Sin especificar,2019-06-07
+553,MASERATI,Gasolina,Cataluña,0005,2019-06-07
+554,MASERATI,Gasolina,Ceuta,0001,2019-06-07
+555,MASERATI,Gasolina,Comunitat,Sin especificar,2019-06-07
+556,MASERATI,Gasolina,Galicia,0001,2019-06-07
+557,MASERATI,Gasolina,País,Sin especificar,2019-06-07
+558,MAZDA,Diesel,Andalucía,0232,2019-06-07
+559,MAZDA,Diesel,Aragón,0090,2019-06-07
+560,MAZDA,Diesel,Canarias,0038,2019-06-07
+561,MAZDA,Diesel,Cantabria,0039,2019-06-07
+562,MAZDA,Diesel,Castilla,Sin especificar,2019-06-07
+563,MAZDA,Diesel,Castilla-La,Sin especificar,2019-06-07
+564,MAZDA,Diesel,Cataluña,0482,2019-06-07
+565,MAZDA,Diesel,Ceuta,0002,2019-06-07
+566,MAZDA,Diesel,Comunitat,Sin especificar,2019-06-07
+567,MAZDA,Diesel,Extremadura,0016,2019-06-07
+568,MAZDA,Diesel,Galicia,0168,2019-06-07
+569,MAZDA,Diesel,País,Sin especificar,2019-06-07
+570,MAZDA,Diesel,Rioja,Sin especificar,2019-06-07
+571,MAZDA,Gasolina,Andalucía,0227,2019-06-07
+572,MAZDA,Gasolina,Aragón,0102,2019-06-07
+573,MAZDA,Gasolina,Canarias,0170,2019-06-07
+574,MAZDA,Gasolina,Cantabria,0020,2019-06-07
+575,MAZDA,Gasolina,Castilla,Sin especificar,2019-06-07
+576,MAZDA,Gasolina,Castilla-La,Sin especificar,2019-06-07
+577,MAZDA,Gasolina,Cataluña,0536,2019-06-07
+578,MAZDA,Gasolina,Comunitat,Sin especificar,2019-06-07
+579,MAZDA,Gasolina,Extremadura,0016,2019-06-07
+580,MAZDA,Gasolina,Galicia,0138,2019-06-07
+581,MAZDA,Gasolina,País,Sin especificar,2019-06-07
+582,MAZDA,Gasolina,Rioja,Sin especificar,2019-06-07
+583,MCCSMART,Diesel,Andalucía,0001,2019-06-07
+584,MCCSMART,Gasolina,Andalucía,0001,2019-06-07
+585,MCCSMART,Gasolina,Cataluña,0001,2019-06-07
+586,MCLAREN,Gasolina,Andalucía,0001,2019-06-07
+587,MERCEDESAMG,Diesel,Andalucía,0002,2019-06-07
+588,MERCEDESAMG,Diesel,Canarias,0001,2019-06-07
+589,MERCEDESAMG,Diesel,Comunitat,Sin especificar,2019-06-07
+590,MERCEDESAMG,Gasolina,Andalucía,0003,2019-06-07
+591,MERCEDESAMG,Gasolina,Aragón,0002,2019-06-07
+592,MERCEDESAMG,Gasolina,Canarias,0001,2019-06-07
+593,MERCEDESAMG,Gasolina,Castilla,Sin especificar,2019-06-07
+594,MERCEDESAMG,Gasolina,Cataluña,0006,2019-06-07
+595,MERCEDESAMG,Gasolina,Comunitat,Sin especificar,2019-06-07
+596,MERCEDESBENZ,Diesel,Andalucía,1952,2019-06-07
+597,MERCEDESBENZ,Diesel,Aragón,0307,2019-06-07
+598,MERCEDESBENZ,Diesel,Canarias,0235,2019-06-07
+599,MERCEDESBENZ,Diesel,Cantabria,0142,2019-06-07
+600,MERCEDESBENZ,Diesel,Castilla,Sin especificar,2019-06-07
+601,MERCEDESBENZ,Diesel,Castilla-La,Sin especificar,2019-06-07
+602,MERCEDESBENZ,Diesel,Cataluña,1860,2019-06-07
+603,MERCEDESBENZ,Diesel,Ceuta,0032,2019-06-07
+604,MERCEDESBENZ,Diesel,Comunitat,Sin especificar,2019-06-07
+605,MERCEDESBENZ,Diesel,Extremadura,0150,2019-06-07
+606,MERCEDESBENZ,Diesel,Galicia,0709,2019-06-07
+607,MERCEDESBENZ,Diesel,Melilla,0065,2019-06-07
+608,MERCEDESBENZ,Diesel,País,Sin especificar,2019-06-07
+609,MERCEDESBENZ,Diesel,Rioja,Sin especificar,2019-06-07
+610,MERCEDESBENZ,Eléctrico,Castilla-La,Sin especificar,2019-06-07
+611,MERCEDESBENZ,Eléctrico,Cataluña,0004,2019-06-07
+612,MERCEDESBENZ,Gas,Licuado,Sin especificar,2019-06-07
+613,MERCEDESBENZ,Gasolina,Andalucía,0142,2019-06-07
+614,MERCEDESBENZ,Gasolina,Aragón,0028,2019-06-07
+615,MERCEDESBENZ,Gasolina,Canarias,0095,2019-06-07
+616,MERCEDESBENZ,Gasolina,Cantabria,0013,2019-06-07
+617,MERCEDESBENZ,Gasolina,Castilla,Sin especificar,2019-06-07
+618,MERCEDESBENZ,Gasolina,Castilla-La,Sin especificar,2019-06-07
+619,MERCEDESBENZ,Gasolina,Cataluña,0191,2019-06-07
+620,MERCEDESBENZ,Gasolina,Ceuta,0005,2019-06-07
+621,MERCEDESBENZ,Gasolina,Comunitat,Sin especificar,2019-06-07
+622,MERCEDESBENZ,Gasolina,Extremadura,0008,2019-06-07
+623,MERCEDESBENZ,Gasolina,Galicia,0041,2019-06-07
+624,MERCEDESBENZ,Gasolina,Melilla,0010,2019-06-07
+625,MERCEDESBENZ,Gasolina,País,Sin especificar,2019-06-07
+626,MERCEDESBENZ,Gasolina,Rioja,Sin especificar,2019-06-07
+627,MG,Gasolina,Andalucía,0002,2019-06-07
+628,MG,Gasolina,Cataluña,0003,2019-06-07
+629,MG,Gasolina,Comunitat,Sin especificar,2019-06-07
+630,MG,Gasolina,Galicia,0002,2019-06-07
+631,MINI,Diesel,Andalucía,0159,2019-06-07
+632,MINI,Diesel,Aragón,0011,2019-06-07
+633,MINI,Diesel,Canarias,0023,2019-06-07
+634,MINI,Diesel,Cantabria,0010,2019-06-07
+635,MINI,Diesel,Castilla,Sin especificar,2019-06-07
+636,MINI,Diesel,Castilla-La,Sin especificar,2019-06-07
+637,MINI,Diesel,Cataluña,0309,2019-06-07
+638,MINI,Diesel,Comunitat,Sin especificar,2019-06-07
+639,MINI,Diesel,Extremadura,0008,2019-06-07
+640,MINI,Diesel,Galicia,0044,2019-06-07
+641,MINI,Diesel,País,Sin especificar,2019-06-07
+642,MINI,Diesel,Rioja,Sin especificar,2019-06-07
+643,MINI,Gasolina,Andalucía,0096,2019-06-07
+644,MINI,Gasolina,Aragón,0011,2019-06-07
+645,MINI,Gasolina,Canarias,0061,2019-06-07
+646,MINI,Gasolina,Cantabria,0008,2019-06-07
+647,MINI,Gasolina,Castilla,Sin especificar,2019-06-07
+648,MINI,Gasolina,Castilla-La,Sin especificar,2019-06-07
+649,MINI,Gasolina,Cataluña,0185,2019-06-07
+650,MINI,Gasolina,Comunitat,Sin especificar,2019-06-07
+651,MINI,Gasolina,Extremadura,0007,2019-06-07
+652,MINI,Gasolina,Galicia,0045,2019-06-07
+653,MINI,Gasolina,Melilla,0002,2019-06-07
+654,MINI,Gasolina,País,Sin especificar,2019-06-07
+655,MINI,Gasolina,Rioja,Sin especificar,2019-06-07
+656,MITSUBISHI,Diesel,Andalucía,0237,2019-06-07
+657,MITSUBISHI,Diesel,Aragón,0032,2019-06-07
+658,MITSUBISHI,Diesel,Canarias,0042,2019-06-07
+659,MITSUBISHI,Diesel,Cantabria,0017,2019-06-07
+660,MITSUBISHI,Diesel,Castilla,Sin especificar,2019-06-07
+661,MITSUBISHI,Diesel,Castilla-La,Sin especificar,2019-06-07
+662,MITSUBISHI,Diesel,Cataluña,0148,2019-06-07
+663,MITSUBISHI,Diesel,Ceuta,0005,2019-06-07
+664,MITSUBISHI,Diesel,Comunitat,Sin especificar,2019-06-07
+665,MITSUBISHI,Diesel,Extremadura,0025,2019-06-07
+666,MITSUBISHI,Diesel,Galicia,0022,2019-06-07
+667,MITSUBISHI,Diesel,Melilla,0009,2019-06-07
+668,MITSUBISHI,Diesel,País,Sin especificar,2019-06-07
+669,MITSUBISHI,Diesel,Rioja,Sin especificar,2019-06-07
+670,MITSUBISHI,Eléctrico,Andalucía,0011,2019-06-07
+671,MITSUBISHI,Eléctrico,Aragón,0002,2019-06-07
+672,MITSUBISHI,Eléctrico,Canarias,0002,2019-06-07
+673,MITSUBISHI,Eléctrico,Castilla,Sin especificar,2019-06-07
+674,MITSUBISHI,Eléctrico,Castilla-La,Sin especificar,2019-06-07
+675,MITSUBISHI,Eléctrico,Cataluña,0025,2019-06-07
+676,MITSUBISHI,Eléctrico,Comunitat,Sin especificar,2019-06-07
+677,MITSUBISHI,Eléctrico,Galicia,0001,2019-06-07
+678,MITSUBISHI,Eléctrico,País,Sin especificar,2019-06-07
+679,MITSUBISHI,Gasolina,Andalucía,0123,2019-06-07
+680,MITSUBISHI,Gasolina,Aragón,0018,2019-06-07
+681,MITSUBISHI,Gasolina,Canarias,0075,2019-06-07
+682,MITSUBISHI,Gasolina,Cantabria,0006,2019-06-07
+683,MITSUBISHI,Gasolina,Castilla,Sin especificar,2019-06-07
+684,MITSUBISHI,Gasolina,Castilla-La,Sin especificar,2019-06-07
+685,MITSUBISHI,Gasolina,Cataluña,0115,2019-06-07
+686,MITSUBISHI,Gasolina,Ceuta,0006,2019-06-07
+687,MITSUBISHI,Gasolina,Comunitat,Sin especificar,2019-06-07
+688,MITSUBISHI,Gasolina,Extremadura,0005,2019-06-07
+689,MITSUBISHI,Gasolina,Galicia,0007,2019-06-07
+690,MITSUBISHI,Gasolina,Melilla,0006,2019-06-07
+691,MITSUBISHI,Gasolina,País,Sin especificar,2019-06-07
+692,MITSUBISHI,Gasolina,Rioja,Sin especificar,2019-06-07
+693,MORGAN,Gasolina,Canarias,0001,2019-06-07
+694,MORRIS,Gasolina,Comunitat,Sin especificar,2019-06-07
+695,NISSAN,Diesel,Andalucía,1029,2019-06-07
+696,NISSAN,Diesel,Aragón,0159,2019-06-07
+697,NISSAN,Diesel,Canarias,0184,2019-06-07
+698,NISSAN,Diesel,Cantabria,0055,2019-06-07
+699,NISSAN,Diesel,Castilla,Sin especificar,2019-06-07
+700,NISSAN,Diesel,Castilla-La,Sin especificar,2019-06-07
+701,NISSAN,Diesel,Cataluña,1433,2019-06-07
+702,NISSAN,Diesel,Ceuta,0010,2019-06-07
+703,NISSAN,Diesel,Comunitat,Sin especificar,2019-06-07
+704,NISSAN,Diesel,Extremadura,0108,2019-06-07
+705,NISSAN,Diesel,Galicia,0285,2019-06-07
+706,NISSAN,Diesel,Melilla,0001,2019-06-07
+707,NISSAN,Diesel,País,Sin especificar,2019-06-07
+708,NISSAN,Diesel,Rioja,Sin especificar,2019-06-07
+709,NISSAN,Eléctrico,Andalucía,0012,2019-06-07
+710,NISSAN,Eléctrico,Aragón,0001,2019-06-07
+711,NISSAN,Eléctrico,Canarias,0006,2019-06-07
+712,NISSAN,Eléctrico,Cantabria,0003,2019-06-07
+713,NISSAN,Eléctrico,Castilla,Sin especificar,2019-06-07
+714,NISSAN,Eléctrico,Castilla-La,Sin especificar,2019-06-07
+715,NISSAN,Eléctrico,Cataluña,0131,2019-06-07
+716,NISSAN,Eléctrico,Comunitat,Sin especificar,2019-06-07
+717,NISSAN,Eléctrico,Extremadura,0001,2019-06-07
+718,NISSAN,Eléctrico,Galicia,0006,2019-06-07
+719,NISSAN,Eléctrico,País,Sin especificar,2019-06-07
+720,NISSAN,Gasolina,Andalucía,0576,2019-06-07
+721,NISSAN,Gasolina,Aragón,0088,2019-06-07
+722,NISSAN,Gasolina,Canarias,0566,2019-06-07
+723,NISSAN,Gasolina,Cantabria,0051,2019-06-07
+724,NISSAN,Gasolina,Castilla,Sin especificar,2019-06-07
+725,NISSAN,Gasolina,Castilla-La,Sin especificar,2019-06-07
+726,NISSAN,Gasolina,Cataluña,0915,2019-06-07
+727,NISSAN,Gasolina,Ceuta,0011,2019-06-07
+728,NISSAN,Gasolina,Comunitat,Sin especificar,2019-06-07
+729,NISSAN,Gasolina,Extremadura,0053,2019-06-07
+730,NISSAN,Gasolina,Galicia,0122,2019-06-07
+731,NISSAN,Gasolina,Melilla,0009,2019-06-07
+732,NISSAN,Gasolina,País,Sin especificar,2019-06-07
+733,NISSAN,Gasolina,Rioja,Sin especificar,2019-06-07
+734,OPEL,Diesel,Andalucía,1136,2019-06-07
+735,OPEL,Diesel,Aragón,0405,2019-06-07
+736,OPEL,Diesel,Canarias,0189,2019-06-07
+737,OPEL,Diesel,Cantabria,0089,2019-06-07
+738,OPEL,Diesel,Castilla,Sin especificar,2019-06-07
+739,OPEL,Diesel,Castilla-La,Sin especificar,2019-06-07
+740,OPEL,Diesel,Cataluña,1015,2019-06-07
+741,OPEL,Diesel,Ceuta,0008,2019-06-07
+742,OPEL,Diesel,Comunitat,Sin especificar,2019-06-07
+743,OPEL,Diesel,Extremadura,0216,2019-06-07
+744,OPEL,Diesel,Galicia,0405,2019-06-07
+745,OPEL,Diesel,Melilla,0004,2019-06-07
+746,OPEL,Diesel,País,Sin especificar,2019-06-07
+747,OPEL,Diesel,Rioja,Sin especificar,2019-06-07
+748,OPEL,Eléctrico,Cantabria,0001,2019-06-07
+749,OPEL,Eléctrico,Cataluña,0001,2019-06-07
+750,OPEL,Eléctrico,Comunitat,Sin especificar,2019-06-07
+751,OPEL,Gas,Licuado,Sin especificar,2019-06-07
+752,OPEL,Gas,Licuado,Sin especificar,2019-06-07
+753,OPEL,Gas,Licuado,Sin especificar,2019-06-07
+754,OPEL,Gas,Licuado,Sin especificar,2019-06-07
+755,OPEL,Gas,Licuado,Sin especificar,2019-06-07
+756,OPEL,Gas,Licuado,Sin especificar,2019-06-07
+757,OPEL,Gas,Licuado,Sin especificar,2019-06-07
+758,OPEL,Gas,Licuado,Sin especificar,2019-06-07
+759,OPEL,Gas,Licuado,Sin especificar,2019-06-07
+760,OPEL,Gas,Licuado,Sin especificar,2019-06-07
+761,OPEL,Gas,Licuado,Sin especificar,2019-06-07
+762,OPEL,Gas,Licuado,Sin especificar,2019-06-07
+763,OPEL,Gas,Licuado,Sin especificar,2019-06-07
+764,OPEL,Gas,Licuado,Sin especificar,2019-06-07
+765,OPEL,Gas,Licuado,Sin especificar,2019-06-07
+766,OPEL,Gas,Licuado,Sin especificar,2019-06-07
+767,OPEL,Gasolina,Andalucía,0907,2019-06-07
+768,OPEL,Gasolina,Aragón,0287,2019-06-07
+769,OPEL,Gasolina,Canarias,0848,2019-06-07
+770,OPEL,Gasolina,Cantabria,0086,2019-06-07
+771,OPEL,Gasolina,Castilla,Sin especificar,2019-06-07
+772,OPEL,Gasolina,Castilla-La,Sin especificar,2019-06-07
+773,OPEL,Gasolina,Cataluña,1157,2019-06-07
+774,OPEL,Gasolina,Ceuta,0016,2019-06-07
+775,OPEL,Gasolina,Comunitat,Sin especificar,2019-06-07
+776,OPEL,Gasolina,Extremadura,0078,2019-06-07
+777,OPEL,Gasolina,Galicia,0243,2019-06-07
+778,OPEL,Gasolina,Melilla,0013,2019-06-07
+779,OPEL,Gasolina,País,Sin especificar,2019-06-07
+780,OPEL,Gasolina,Rioja,Sin especificar,2019-06-07
+781,PEUGEOT,Diesel,Andalucía,1974,2019-06-07
+782,PEUGEOT,Diesel,Aragón,0382,2019-06-07
+783,PEUGEOT,Diesel,Canarias,0118,2019-06-07
+784,PEUGEOT,Diesel,Cantabria,0147,2019-06-07
+785,PEUGEOT,Diesel,Castilla,Sin especificar,2019-06-07
+786,PEUGEOT,Diesel,Castilla-La,Sin especificar,2019-06-07
+787,PEUGEOT,Diesel,Cataluña,1983,2019-06-07
+788,PEUGEOT,Diesel,Ceuta,0013,2019-06-07
+789,PEUGEOT,Diesel,Comunitat,Sin especificar,2019-06-07
+790,PEUGEOT,Diesel,Extremadura,0208,2019-06-07
+791,PEUGEOT,Diesel,Galicia,0808,2019-06-07
+792,PEUGEOT,Diesel,Melilla,0007,2019-06-07
+793,PEUGEOT,Diesel,País,Sin especificar,2019-06-07
+794,PEUGEOT,Diesel,Rioja,Sin especificar,2019-06-07
+795,PEUGEOT,Gasolina,Andalucía,0898,2019-06-07
+796,PEUGEOT,Gasolina,Aragón,0285,2019-06-07
+797,PEUGEOT,Gasolina,Canarias,0375,2019-06-07
+798,PEUGEOT,Gasolina,Cantabria,0066,2019-06-07
+799,PEUGEOT,Gasolina,Castilla,Sin especificar,2019-06-07
+800,PEUGEOT,Gasolina,Castilla-La,Sin especificar,2019-06-07
+801,PEUGEOT,Gasolina,Cataluña,1484,2019-06-07
+802,PEUGEOT,Gasolina,Ceuta,0005,2019-06-07
+803,PEUGEOT,Gasolina,Comunitat,Sin especificar,2019-06-07
+804,PEUGEOT,Gasolina,Extremadura,0078,2019-06-07
+805,PEUGEOT,Gasolina,Galicia,0275,2019-06-07
+806,PEUGEOT,Gasolina,Melilla,0011,2019-06-07
+807,PEUGEOT,Gasolina,País,Sin especificar,2019-06-07
+808,PEUGEOT,Gasolina,Rioja,Sin especificar,2019-06-07
+809,PLYMOUTH,Gasolina,Castilla-La,Sin especificar,2019-06-07
+810,PONTIAC,Gasolina,Comunitat,Sin especificar,2019-06-07
+811,PONTIAC,Gasolina,Galicia,0001,2019-06-07
+812,PORSCHE,Diesel,Andalucía,0033,2019-06-07
+813,PORSCHE,Diesel,Aragón,0002,2019-06-07
+814,PORSCHE,Diesel,Canarias,0003,2019-06-07
+815,PORSCHE,Diesel,Cantabria,0001,2019-06-07
+816,PORSCHE,Diesel,Castilla,Sin especificar,2019-06-07
+817,PORSCHE,Diesel,Castilla-La,Sin especificar,2019-06-07
+818,PORSCHE,Diesel,Cataluña,0050,2019-06-07
+819,PORSCHE,Diesel,Comunitat,Sin especificar,2019-06-07
+820,PORSCHE,Diesel,Extremadura,0003,2019-06-07
+821,PORSCHE,Diesel,Galicia,0013,2019-06-07
+822,PORSCHE,Diesel,País,Sin especificar,2019-06-07
+823,PORSCHE,Diesel,Rioja,Sin especificar,2019-06-07
+824,PORSCHE,Eléctrico,Castilla-La,Sin especificar,2019-06-07
+825,PORSCHE,Gasolina,Andalucía,0043,2019-06-07
+826,PORSCHE,Gasolina,Aragón,0004,2019-06-07
+827,PORSCHE,Gasolina,Canarias,0013,2019-06-07
+828,PORSCHE,Gasolina,Cantabria,0006,2019-06-07
+829,PORSCHE,Gasolina,Castilla,Sin especificar,2019-06-07
+830,PORSCHE,Gasolina,Castilla-La,Sin especificar,2019-06-07
+831,PORSCHE,Gasolina,Cataluña,0047,2019-06-07
+832,PORSCHE,Gasolina,Comunitat,Sin especificar,2019-06-07
+833,PORSCHE,Gasolina,Extremadura,0001,2019-06-07
+834,PORSCHE,Gasolina,Galicia,0010,2019-06-07
+835,PORSCHE,Gasolina,País,Sin especificar,2019-06-07
+836,PORSCHE,Gasolina,Rioja,Sin especificar,2019-06-07
+837,RENAULT,Diesel,Andalucía,1316,2019-06-07
+838,RENAULT,Diesel,Aragón,0170,2019-06-07
+839,RENAULT,Diesel,Canarias,0163,2019-06-07
+840,RENAULT,Diesel,Cantabria,0116,2019-06-07
+841,RENAULT,Diesel,Castilla,Sin especificar,2019-06-07
+842,RENAULT,Diesel,Castilla-La,Sin especificar,2019-06-07
+843,RENAULT,Diesel,Cataluña,1290,2019-06-07
+844,RENAULT,Diesel,Ceuta,0021,2019-06-07
+845,RENAULT,Diesel,Comunitat,Sin especificar,2019-06-07
+846,RENAULT,Diesel,Extremadura,0152,2019-06-07
+847,RENAULT,Diesel,Galicia,0447,2019-06-07
+848,RENAULT,Diesel,Melilla,0005,2019-06-07
+849,RENAULT,Diesel,País,Sin especificar,2019-06-07
+850,RENAULT,Diesel,Rioja,Sin especificar,2019-06-07
+851,RENAULT,Eléctrico,Andalucía,0002,2019-06-07
+852,RENAULT,Eléctrico,Canarias,0002,2019-06-07
+853,RENAULT,Eléctrico,Castilla,Sin especificar,2019-06-07
+854,RENAULT,Eléctrico,Castilla-La,Sin especificar,2019-06-07
+855,RENAULT,Eléctrico,Cataluña,0016,2019-06-07
+856,RENAULT,Eléctrico,Comunitat,Sin especificar,2019-06-07
+857,RENAULT,Eléctrico,Galicia,0001,2019-06-07
+858,RENAULT,Eléctrico,País,Sin especificar,2019-06-07
+859,RENAULT,Gasolina,Andalucía,0628,2019-06-07
+860,RENAULT,Gasolina,Aragón,0136,2019-06-07
+861,RENAULT,Gasolina,Canarias,0517,2019-06-07
+862,RENAULT,Gasolina,Cantabria,0071,2019-06-07
+863,RENAULT,Gasolina,Castilla,Sin especificar,2019-06-07
+864,RENAULT,Gasolina,Castilla-La,Sin especificar,2019-06-07
+865,RENAULT,Gasolina,Cataluña,1198,2019-06-07
+866,RENAULT,Gasolina,Ceuta,0013,2019-06-07
+867,RENAULT,Gasolina,Comunitat,Sin especificar,2019-06-07
+868,RENAULT,Gasolina,Extremadura,0064,2019-06-07
+869,RENAULT,Gasolina,Galicia,0219,2019-06-07
+870,RENAULT,Gasolina,Melilla,0015,2019-06-07
+871,RENAULT,Gasolina,País,Sin especificar,2019-06-07
+872,RENAULT,Gasolina,Rioja,Sin especificar,2019-06-07
+873,RENAULTTECH,Diesel,Aragón,0001,2019-06-07
+874,RENAULTTECH,Diesel,Castilla,Sin especificar,2019-06-07
+875,RENAULTTECH,Diesel,Cataluña,0002,2019-06-07
+876,RENAULTTECH,Diesel,Comunitat,Sin especificar,2019-06-07
+877,RENAULTTECH,Diesel,Extremadura,0001,2019-06-07
+878,RENAULTTECH,Diesel,Galicia,0001,2019-06-07
+879,ROLLSROYCE,Gasolina,Andalucía,0001,2019-06-07
+880,ROVER,Diesel,Andalucía,0003,2019-06-07
+881,ROVER,Diesel,Aragón,0001,2019-06-07
+882,ROVER,Diesel,Cataluña,0001,2019-06-07
+883,ROVER,Diesel,Ceuta,0001,2019-06-07
+884,ROVER,Gasolina,Andalucía,0001,2019-06-07
+885,ROVER,Gasolina,Canarias,0002,2019-06-07
+886,ROVER,Gasolina,Cataluña,0001,2019-06-07
+887,ROVER,Gasolina,Comunitat,Sin especificar,2019-06-07
+888,SAAB,Diesel,Andalucía,0005,2019-06-07
+889,SAAB,Diesel,Canarias,0001,2019-06-07
+890,SAAB,Diesel,Cataluña,0004,2019-06-07
+891,SAAB,Diesel,Comunitat,Sin especificar,2019-06-07
+892,SAAB,Gasolina,Andalucía,0004,2019-06-07
+893,SAAB,Gasolina,Canarias,0002,2019-06-07
+894,SAAB,Gasolina,Cataluña,0002,2019-06-07
+895,SAAB,Gasolina,Comunitat,Sin especificar,2019-06-07
+896,SAAB,Gasolina,Galicia,0002,2019-06-07
+897,SAAB,Gasolina,País,Sin especificar,2019-06-07
+898,SCION,Gasolina,Andalucía,0001,2019-06-07
+899,SEAT,Diesel,Andalucía,0827,2019-06-07
+900,SEAT,Diesel,Aragón,0102,2019-06-07
+901,SEAT,Diesel,Canarias,0037,2019-06-07
+902,SEAT,Diesel,Cantabria,0062,2019-06-07
+903,SEAT,Diesel,Castilla,Sin especificar,2019-06-07
+904,SEAT,Diesel,Castilla-La,Sin especificar,2019-06-07
+905,SEAT,Diesel,Cataluña,1550,2019-06-07
+906,SEAT,Diesel,Ceuta,0003,2019-06-07
+907,SEAT,Diesel,Comunitat,Sin especificar,2019-06-07
+908,SEAT,Diesel,Extremadura,0043,2019-06-07
+909,SEAT,Diesel,Galicia,0306,2019-06-07
+910,SEAT,Diesel,Melilla,0001,2019-06-07
+911,SEAT,Diesel,País,Sin especificar,2019-06-07
+912,SEAT,Diesel,Rioja,Sin especificar,2019-06-07
+913,SEAT,Eléctrico,Cataluña,0001,2019-06-07
+914,SEAT,Gas,Licuado,Sin especificar,2019-06-07
+915,SEAT,Gas,Licuado,Sin especificar,2019-06-07
+916,SEAT,Gas,Licuado,Sin especificar,2019-06-07
+917,SEAT,Gasolina,Andalucía,0807,2019-06-07
+918,SEAT,Gasolina,Aragón,0136,2019-06-07
+919,SEAT,Gasolina,Canarias,0892,2019-06-07
+920,SEAT,Gasolina,Cantabria,0066,2019-06-07
+921,SEAT,Gasolina,Castilla,Sin especificar,2019-06-07
+922,SEAT,Gasolina,Castilla-La,Sin especificar,2019-06-07
+923,SEAT,Gasolina,Cataluña,1480,2019-06-07
+924,SEAT,Gasolina,Ceuta,0001,2019-06-07
+925,SEAT,Gasolina,Comunitat,Sin especificar,2019-06-07
+926,SEAT,Gasolina,Extremadura,0028,2019-06-07
+927,SEAT,Gasolina,Galicia,0251,2019-06-07
+928,SEAT,Gasolina,Melilla,0015,2019-06-07
+929,SEAT,Gasolina,País,Sin especificar,2019-06-07
+930,SEAT,Gasolina,Rioja,Sin especificar,2019-06-07
+931,SINMARCA,Gasolina,Andalucía,0001,2019-06-07
+932,SKODA,Diesel,Andalucía,0365,2019-06-07
+933,SKODA,Diesel,Aragón,0065,2019-06-07
+934,SKODA,Diesel,Canarias,0022,2019-06-07
+935,SKODA,Diesel,Cantabria,0014,2019-06-07
+936,SKODA,Diesel,Castilla,Sin especificar,2019-06-07
+937,SKODA,Diesel,Castilla-La,Sin especificar,2019-06-07
+938,SKODA,Diesel,Cataluña,0435,2019-06-07
+939,SKODA,Diesel,Comunitat,Sin especificar,2019-06-07
+940,SKODA,Diesel,Extremadura,0068,2019-06-07
+941,SKODA,Diesel,Galicia,0096,2019-06-07
+942,SKODA,Diesel,País,Sin especificar,2019-06-07
+943,SKODA,Diesel,Rioja,Sin especificar,2019-06-07
+944,SKODA,Gasolina,Andalucía,0247,2019-06-07
+945,SKODA,Gasolina,Aragón,0061,2019-06-07
+946,SKODA,Gasolina,Canarias,0160,2019-06-07
+947,SKODA,Gasolina,Cantabria,0016,2019-06-07
+948,SKODA,Gasolina,Castilla,Sin especificar,2019-06-07
+949,SKODA,Gasolina,Castilla-La,Sin especificar,2019-06-07
+950,SKODA,Gasolina,Cataluña,0265,2019-06-07
+951,SKODA,Gasolina,Ceuta,0001,2019-06-07
+952,SKODA,Gasolina,Comunitat,Sin especificar,2019-06-07
+953,SKODA,Gasolina,Extremadura,0028,2019-06-07
+954,SKODA,Gasolina,Galicia,0081,2019-06-07
+955,SKODA,Gasolina,Melilla,0002,2019-06-07
+956,SKODA,Gasolina,País,Sin especificar,2019-06-07
+957,SKODA,Gasolina,Rioja,Sin especificar,2019-06-07
+958,SMART,Diesel,Aragón,0001,2019-06-07
+959,SMART,Diesel,Comunitat,Sin especificar,2019-06-07
+960,SMART,Diesel,Galicia,0002,2019-06-07
+961,SMART,Gasolina,Andalucía,0116,2019-06-07
+962,SMART,Gasolina,Aragón,0011,2019-06-07
+963,SMART,Gasolina,Canarias,0076,2019-06-07
+964,SMART,Gasolina,Cantabria,0006,2019-06-07
+965,SMART,Gasolina,Castilla,Sin especificar,2019-06-07
+966,SMART,Gasolina,Castilla-La,Sin especificar,2019-06-07
+967,SMART,Gasolina,Cataluña,0241,2019-06-07
+968,SMART,Gasolina,Ceuta,0001,2019-06-07
+969,SMART,Gasolina,Comunitat,Sin especificar,2019-06-07
+970,SMART,Gasolina,Extremadura,0001,2019-06-07
+971,SMART,Gasolina,Galicia,0028,2019-06-07
+972,SMART,Gasolina,País,Sin especificar,2019-06-07
+973,SMART,Gasolina,Rioja,Sin especificar,2019-06-07
+974,SSANGYONG,Diesel,Andalucía,0109,2019-06-07
+975,SSANGYONG,Diesel,Aragón,0014,2019-06-07
+976,SSANGYONG,Diesel,Canarias,0005,2019-06-07
+977,SSANGYONG,Diesel,Cantabria,0007,2019-06-07
+978,SSANGYONG,Diesel,Castilla,Sin especificar,2019-06-07
+979,SSANGYONG,Diesel,Castilla-La,Sin especificar,2019-06-07
+980,SSANGYONG,Diesel,Cataluña,0244,2019-06-07
+981,SSANGYONG,Diesel,Ceuta,0008,2019-06-07
+982,SSANGYONG,Diesel,Comunitat,Sin especificar,2019-06-07
+983,SSANGYONG,Diesel,Extremadura,0013,2019-06-07
+984,SSANGYONG,Diesel,Galicia,0026,2019-06-07
+985,SSANGYONG,Diesel,Melilla,0008,2019-06-07
+986,SSANGYONG,Diesel,País,Sin especificar,2019-06-07
+987,SSANGYONG,Gas,Licuado,Sin especificar,2019-06-07
+988,SSANGYONG,Gas,Licuado,Sin especificar,2019-06-07
+989,SSANGYONG,Gas,Licuado,Sin especificar,2019-06-07
+990,SSANGYONG,Gas,Licuado,Sin especificar,2019-06-07
+991,SSANGYONG,Gas,Licuado,Sin especificar,2019-06-07
+992,SSANGYONG,Gas,Licuado,Sin especificar,2019-06-07
+993,SSANGYONG,Gas,Licuado,Sin especificar,2019-06-07
+994,SSANGYONG,Gasolina,Andalucía,0024,2019-06-07
+995,SSANGYONG,Gasolina,Aragón,0003,2019-06-07
+996,SSANGYONG,Gasolina,Canarias,0007,2019-06-07
+997,SSANGYONG,Gasolina,Cantabria,0001,2019-06-07
+998,SSANGYONG,Gasolina,Castilla,Sin especificar,2019-06-07
+999,SSANGYONG,Gasolina,Castilla-La,Sin especificar,2019-06-07
+1000,SSANGYONG,Gasolina,Cataluña,0022,2019-06-07
+1001,SSANGYONG,Gasolina,Comunitat,Sin especificar,2019-06-07
+1002,SSANGYONG,Gasolina,Galicia,0001,2019-06-07
+1003,SSANGYONG,Gasolina,Melilla,0002,2019-06-07
+1004,SSANGYONG,Gasolina,País,Sin especificar,2019-06-07
+1005,STUDEBAKER,Gasolina,Cataluña,0001,2019-06-07
+1006,SUBARU,Diesel,Andalucía,0020,2019-06-07
+1007,SUBARU,Diesel,Aragón,0005,2019-06-07
+1008,SUBARU,Diesel,Canarias,0004,2019-06-07
+1009,SUBARU,Diesel,Cantabria,0005,2019-06-07
+1010,SUBARU,Diesel,Castilla,Sin especificar,2019-06-07
+1011,SUBARU,Diesel,Castilla-La,Sin especificar,2019-06-07
+1012,SUBARU,Diesel,Cataluña,0063,2019-06-07
+1013,SUBARU,Diesel,Comunitat,Sin especificar,2019-06-07
+1014,SUBARU,Diesel,Extremadura,0002,2019-06-07
+1015,SUBARU,Diesel,Galicia,0007,2019-06-07
+1016,SUBARU,Diesel,Melilla,0001,2019-06-07
+1017,SUBARU,Diesel,País,Sin especificar,2019-06-07
+1018,SUBARU,Diesel,Rioja,Sin especificar,2019-06-07
+1019,SUBARU,Gasolina,Andalucía,0017,2019-06-07
+1020,SUBARU,Gasolina,Aragón,0011,2019-06-07
+1021,SUBARU,Gasolina,Canarias,0003,2019-06-07
+1022,SUBARU,Gasolina,Cantabria,0004,2019-06-07
+1023,SUBARU,Gasolina,Castilla,Sin especificar,2019-06-07
+1024,SUBARU,Gasolina,Castilla-La,Sin especificar,2019-06-07
+1025,SUBARU,Gasolina,Cataluña,0103,2019-06-07
+1026,SUBARU,Gasolina,Comunitat,Sin especificar,2019-06-07
+1027,SUBARU,Gasolina,Extremadura,0003,2019-06-07
+1028,SUBARU,Gasolina,Galicia,0007,2019-06-07
+1029,SUBARU,Gasolina,Melilla,0001,2019-06-07
+1030,SUBARU,Gasolina,País,Sin especificar,2019-06-07
+1031,SUZUKI,Diesel,Andalucía,0114,2019-06-07
+1032,SUZUKI,Diesel,Aragón,0021,2019-06-07
+1033,SUZUKI,Diesel,Canarias,0002,2019-06-07
+1034,SUZUKI,Diesel,Castilla,Sin especificar,2019-06-07
+1035,SUZUKI,Diesel,Castilla-La,Sin especificar,2019-06-07
+1036,SUZUKI,Diesel,Cataluña,0043,2019-06-07
+1037,SUZUKI,Diesel,Comunitat,Sin especificar,2019-06-07
+1038,SUZUKI,Diesel,Extremadura,0001,2019-06-07
+1039,SUZUKI,Diesel,Galicia,0023,2019-06-07
+1040,SUZUKI,Diesel,País,Sin especificar,2019-06-07
+1041,SUZUKI,Diesel,Rioja,Sin especificar,2019-06-07
+1042,SUZUKI,Gasolina,Andalucía,0064,2019-06-07
+1043,SUZUKI,Gasolina,Aragón,0020,2019-06-07
+1044,SUZUKI,Gasolina,Canarias,0045,2019-06-07
+1045,SUZUKI,Gasolina,Cantabria,0005,2019-06-07
+1046,SUZUKI,Gasolina,Castilla,Sin especificar,2019-06-07
+1047,SUZUKI,Gasolina,Castilla-La,Sin especificar,2019-06-07
+1048,SUZUKI,Gasolina,Cataluña,0156,2019-06-07
+1049,SUZUKI,Gasolina,Comunitat,Sin especificar,2019-06-07
+1050,SUZUKI,Gasolina,Extremadura,0001,2019-06-07
+1051,SUZUKI,Gasolina,Galicia,0015,2019-06-07
+1052,SUZUKI,Gasolina,Melilla,0002,2019-06-07
+1053,SUZUKI,Gasolina,País,Sin especificar,2019-06-07
+1054,SUZUKI,Gasolina,Rioja,Sin especificar,2019-06-07
+1055,TESLA,Eléctrico,Andalucía,0002,2019-06-07
+1056,TESLA,Eléctrico,Cataluña,0002,2019-06-07
+1057,TESLAMOTORS,Eléctrico,Andalucía,0001,2019-06-07
+1058,TESLAMOTORS,Eléctrico,Cataluña,0003,2019-06-07
+1059,TESLAMOTORS,Eléctrico,Comunitat,Sin especificar,2019-06-07
+1060,TOYOTA,Diesel,Andalucía,0657,2019-06-07
+1061,TOYOTA,Diesel,Aragón,0078,2019-06-07
+1062,TOYOTA,Diesel,Canarias,0039,2019-06-07
+1063,TOYOTA,Diesel,Cantabria,0039,2019-06-07
+1064,TOYOTA,Diesel,Castilla,Sin especificar,2019-06-07
+1065,TOYOTA,Diesel,Castilla-La,Sin especificar,2019-06-07
+1066,TOYOTA,Diesel,Cataluña,0463,2019-06-07
+1067,TOYOTA,Diesel,Ceuta,0007,2019-06-07
+1068,TOYOTA,Diesel,Comunitat,Sin especificar,2019-06-07
+1069,TOYOTA,Diesel,Extremadura,0109,2019-06-07
+1070,TOYOTA,Diesel,Galicia,0169,2019-06-07
+1071,TOYOTA,Diesel,Melilla,0007,2019-06-07
+1072,TOYOTA,Diesel,País,Sin especificar,2019-06-07
+1073,TOYOTA,Diesel,Rioja,Sin especificar,2019-06-07
+1074,TOYOTA,Eléctrico,Comunitat,Sin especificar,2019-06-07
+1075,TOYOTA,Gas,Licuado,Sin especificar,2019-06-07
+1076,TOYOTA,Gasolina,Andalucía,1161,2019-06-07
+1077,TOYOTA,Gasolina,Aragón,0200,2019-06-07
+1078,TOYOTA,Gasolina,Canarias,0390,2019-06-07
+1079,TOYOTA,Gasolina,Cantabria,0104,2019-06-07
+1080,TOYOTA,Gasolina,Castilla,Sin especificar,2019-06-07
+1081,TOYOTA,Gasolina,Castilla-La,Sin especificar,2019-06-07
+1082,TOYOTA,Gasolina,Cataluña,1963,2019-06-07
+1083,TOYOTA,Gasolina,Ceuta,0009,2019-06-07
+1084,TOYOTA,Gasolina,Comunitat,Sin especificar,2019-06-07
+1085,TOYOTA,Gasolina,Extremadura,0120,2019-06-07
+1086,TOYOTA,Gasolina,Galicia,0384,2019-06-07
+1087,TOYOTA,Gasolina,Melilla,0006,2019-06-07
+1088,TOYOTA,Gasolina,País,Sin especificar,2019-06-07
+1089,TOYOTA,Gasolina,Rioja,Sin especificar,2019-06-07
+1090,TRIPOD,Comunitat,Valenciana,0001,2019-06-07
+1091,TRIPOD,Diesel,Extremadura,0001,2019-06-07
+1092,TRIUMPH,Gasolina,Andalucía,0001,2019-06-07
+1093,TRIUMPH,Gasolina,Cataluña,0002,2019-06-07
+1094,TRIUMPH,Gasolina,Comunitat,Sin especificar,2019-06-07
+1095,TVR,Gasolina,Canarias,0001,2019-06-07
+1096,VAUXHALL,Diesel,Comunitat,Sin especificar,2019-06-07
+1097,VAUXHALL,Gasolina,Andalucía,0001,2019-06-07
+1098,VAUXHALL,Gasolina,Canarias,0001,2019-06-07
+1099,VAUXHALL,Gasolina,Cantabria,0001,2019-06-07
+1100,VAUXHALL,Gasolina,Comunitat,Sin especificar,2019-06-07
+1101,VESPA,Gasolina,Cataluña,0001,2019-06-07
+1102,VOLKSWAGEN,Diesel,Andalucía,1860,2019-06-07
+1103,VOLKSWAGEN,Diesel,Aragón,0260,2019-06-07
+1104,VOLKSWAGEN,Diesel,Canarias,0158,2019-06-07
+1105,VOLKSWAGEN,Diesel,Cantabria,0166,2019-06-07
+1106,VOLKSWAGEN,Diesel,Castilla,Sin especificar,2019-06-07
+1107,VOLKSWAGEN,Diesel,Castilla-La,Sin especificar,2019-06-07
+1108,VOLKSWAGEN,Diesel,Cataluña,2166,2019-06-07
+1109,VOLKSWAGEN,Diesel,Ceuta,0033,2019-06-07
+1110,VOLKSWAGEN,Diesel,Comunitat,Sin especificar,2019-06-07
+1111,VOLKSWAGEN,Diesel,Extremadura,0224,2019-06-07
+1112,VOLKSWAGEN,Diesel,Galicia,0651,2019-06-07
+1113,VOLKSWAGEN,Diesel,Melilla,0016,2019-06-07
+1114,VOLKSWAGEN,Diesel,País,Sin especificar,2019-06-07
+1115,VOLKSWAGEN,Diesel,Rioja,Sin especificar,2019-06-07
+1116,VOLKSWAGEN,Eléctrico,Andalucía,0011,2019-06-07
+1117,VOLKSWAGEN,Eléctrico,Aragón,0002,2019-06-07
+1118,VOLKSWAGEN,Eléctrico,Canarias,0004,2019-06-07
+1119,VOLKSWAGEN,Eléctrico,Cantabria,0001,2019-06-07
+1120,VOLKSWAGEN,Eléctrico,Castilla,Sin especificar,2019-06-07
+1121,VOLKSWAGEN,Eléctrico,Castilla-La,Sin especificar,2019-06-07
+1122,VOLKSWAGEN,Eléctrico,Cataluña,0030,2019-06-07
+1123,VOLKSWAGEN,Eléctrico,Comunitat,Sin especificar,2019-06-07
+1124,VOLKSWAGEN,Eléctrico,Galicia,0004,2019-06-07
+1125,VOLKSWAGEN,Eléctrico,País,Sin especificar,2019-06-07
+1126,VOLKSWAGEN,Eléctrico,Rioja,Sin especificar,2019-06-07
+1127,VOLKSWAGEN,Gas,Licuado,Sin especificar,2019-06-07
+1128,VOLKSWAGEN,Gasolina,Andalucía,0760,2019-06-07
+1129,VOLKSWAGEN,Gasolina,Aragón,0109,2019-06-07
+1130,VOLKSWAGEN,Gasolina,Canarias,1019,2019-06-07
+1131,VOLKSWAGEN,Gasolina,Cantabria,0060,2019-06-07
+1132,VOLKSWAGEN,Gasolina,Castilla,Sin especificar,2019-06-07
+1133,VOLKSWAGEN,Gasolina,Castilla-La,Sin especificar,2019-06-07
+1134,VOLKSWAGEN,Gasolina,Cataluña,1168,2019-06-07
+1135,VOLKSWAGEN,Gasolina,Ceuta,0011,2019-06-07
+1136,VOLKSWAGEN,Gasolina,Comunitat,Sin especificar,2019-06-07
+1137,VOLKSWAGEN,Gasolina,Extremadura,0046,2019-06-07
+1138,VOLKSWAGEN,Gasolina,Galicia,0223,2019-06-07
+1139,VOLKSWAGEN,Gasolina,Melilla,0016,2019-06-07
+1140,VOLKSWAGEN,Gasolina,País,Sin especificar,2019-06-07
+1141,VOLKSWAGEN,Gasolina,Rioja,Sin especificar,2019-06-07
+1142,VOLKSWAGENVW,Diesel,Andalucía,0001,2019-06-07
+1143,VOLKSWAGENVW,Diesel,Castilla,Sin especificar,2019-06-07
+1144,VOLKSWAGENVW,Diesel,Cataluña,0001,2019-06-07
+1145,VOLKSWAGENVW,Diesel,Comunitat,Sin especificar,2019-06-07
+1146,VOLKSWAGENVW,Diesel,Galicia,0003,2019-06-07
+1147,VOLKSWAGENVW,Diesel,País,Sin especificar,2019-06-07
+1148,VOLKSWAGENVW,Gasolina,Andalucía,0002,2019-06-07
+1149,VOLKSWAGENVW,Gasolina,Canarias,0001,2019-06-07
+1150,VOLKSWAGENVW,Gasolina,Castilla,Sin especificar,2019-06-07
+1151,VOLKSWAGENVW,Gasolina,Comunitat,Sin especificar,2019-06-07
+1152,VOLVO,Butano,Castilla,Sin especificar,2019-06-07
+1153,VOLVO,Diesel,Andalucía,0289,2019-06-07
+1154,VOLVO,Diesel,Aragón,0038,2019-06-07
+1155,VOLVO,Diesel,Canarias,0032,2019-06-07
+1156,VOLVO,Diesel,Cantabria,0023,2019-06-07
+1157,VOLVO,Diesel,Castilla,Sin especificar,2019-06-07
+1158,VOLVO,Diesel,Castilla-La,Sin especificar,2019-06-07
+1159,VOLVO,Diesel,Cataluña,0340,2019-06-07
+1160,VOLVO,Diesel,Ceuta,0002,2019-06-07
+1161,VOLVO,Diesel,Comunitat,Sin especificar,2019-06-07
+1162,VOLVO,Diesel,Extremadura,0049,2019-06-07
+1163,VOLVO,Diesel,Galicia,0076,2019-06-07
+1164,VOLVO,Diesel,País,Sin especificar,2019-06-07
+1165,VOLVO,Gasolina,Andalucía,0023,2019-06-07
+1166,VOLVO,Gasolina,Aragón,0002,2019-06-07
+1167,VOLVO,Gasolina,Canarias,0013,2019-06-07
+1168,VOLVO,Gasolina,Cantabria,0001,2019-06-07
+1169,VOLVO,Gasolina,Castilla,Sin especificar,2019-06-07
+1170,VOLVO,Gasolina,Castilla-La,Sin especificar,2019-06-07
+1171,VOLVO,Gasolina,Cataluña,0016,2019-06-07
+1172,VOLVO,Gasolina,Comunitat,Sin especificar,2019-06-07
+1173,VOLVO,Gasolina,Galicia,0007,2019-06-07
+1174,VOLVO,Gasolina,País,Sin especificar,2019-06-07
